@@ -1,0 +1,13 @@
+@font-face {
+    src: url("https://www.axis-praxis.org/fonts/webfonts/MetaVariableDemo-Set.woff2") format("woff2");
+    font-family: "Meta";
+    font-style: normal;
+    font-weight: normal;
+}
+
+#scares {
+    font-family: "Meta", sans-serif;
+    font-size: 2rem;
+    text-align: center;
+    color: #FF0000;
+}

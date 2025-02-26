@@ -1,0 +1,12 @@
+{
+    "counterName": {
+        "type": "text",
+        "label": "Counter Name",
+        "value": "scares"
+    },
+    "counterLabel": {
+        "type": "text",
+        "label": "Counter Label",
+        "value": "Scares:"
+    }
+}
